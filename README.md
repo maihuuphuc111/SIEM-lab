@@ -1,0 +1,2 @@
+<img width="1280" height="686" alt="image" src="https://github.com/user-attachments/assets/bebc627a-7290-438b-9abd-b1cb01170119" />
+Security Information and Event Management (SIEM) lab designed to understand how a SIEM platform works from the ground up. Instead of relying on an existing SIEM solution, the objective is to build each component independently to gain practical knowledge of the complete security monitoring pipeline.
