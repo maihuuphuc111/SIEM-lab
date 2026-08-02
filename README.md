@@ -50,6 +50,4 @@ SIEM-Lab/
 ├── vector.md            # Vector parsing rules and source configs
 ├── kafka.md             # Kafka KRaft mode and Topic structures
 ├── clickhouse.md        # Columnar schema and Materialized Views
-├── grafana.md           # Dashboard configurations and Data Sources
 ├── detection-rules.md   # SIEM detection logic and Use Cases
-├── dashboards.md        # Screenshots and explanations of SOC Panels
