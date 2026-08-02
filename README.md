@@ -45,12 +45,11 @@ The documentation is modularized to explain the exact configuration and purpose 
 ```text
 SIEM-Lab/
 ├── docker-compose.yml       # Core infrastructure deployment
-├── docs/
-│   ├── installation.md      # Step-by-step setup guide
-│   ├── architecture.md      # Deep dive into the Decoupled Data Pipeline
-│   ├── vector.md            # Vector parsing rules and source configs
-│   ├── kafka.md             # Kafka KRaft mode and Topic structures
-│   ├── clickhouse.md        # Columnar schema and Materialized Views
-│   ├── grafana.md           # Dashboard configurations and Data Sources
-│   ├── detection-rules.md   # SIEM detection logic and Use Cases
-│   └── dashboards.md        # Screenshots and explanations of SOC Panels
+├── installation.md      # Step-by-step setup guide
+├── architecture.md      # Deep dive into the Decoupled Data Pipeline
+├── vector.md            # Vector parsing rules and source configs
+├── kafka.md             # Kafka KRaft mode and Topic structures
+├── clickhouse.md        # Columnar schema and Materialized Views
+├── grafana.md           # Dashboard configurations and Data Sources
+├── detection-rules.md   # SIEM detection logic and Use Cases
+├── dashboards.md        # Screenshots and explanations of SOC Panels
